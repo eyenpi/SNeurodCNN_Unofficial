@@ -28,34 +28,10 @@ The model achieves:
 
 The high performance suggests that **SNeurodCNN** is a reliable tool for **early diagnosis** of Alzheimer’s Disease.
 
-## Repository Structure
-```
-.
-├── data/                   # Dataset files (if applicable)
-├── src/                    # Source code for model implementation
-├── results/                # Results, figures, and evaluation metrics
-├── README.md               # Project documentation
-└── requirements.txt        # Dependencies
-```
+## Try It Yourself
+If you want to try the codes and investigate it by yourself, use the notebook below:
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13sUyt0-ElE5W4mI5jEavPUOnLZsedpN1#scrollTo=view-in-github)
 
-## Installation & Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the training script:
-   ```bash
-   python src/train.py
-   ```
-4. Evaluate the model:
-   ```bash
-   python src/evaluate.py
-   ```
 
 ## Authors
 - **Hosein Mirhoseini**  
