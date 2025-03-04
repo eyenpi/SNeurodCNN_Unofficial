@@ -31,6 +31,8 @@ The high performance suggests that **SNeurodCNN** is a reliable tool for **early
 ## Try It Yourself
 If you want to try the codes and investigate it by yourself, use the notebook below:
 
+Make sure to first download all the necessary files from [here](https://drive.google.com/drive/folders/1G1CrE6r-DP3bq4CZEKlp1oZ9lTmQSbKQ?usp=sharing).
+
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15r3_ORQYjA-dBZGwWOAaJCawMXhuejSx?usp=sharing)
 
 
