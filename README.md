@@ -19,12 +19,12 @@ This project implements and analyzes the **SNeurodCNN** model, a deep learning a
 
 ## Results
 The model achieves:
-- **Accuracy:** 96.62%
-- **Precision:** 96.89%
-- **Recall:** 96.66%
-- **F1 Score:** 96.72%
-- **Sensitivity:** 98.58%
-- **Specificity:** 97.04%
+- **Accuracy:** 98.26%
+- **Precision:** 98.27%
+- **Recall:** 98.26%
+- **F1 Score:** 98.25%
+- **Sensitivity:** 98.18%
+- **Specificity:** 99.41%
 
 The high performance suggests that **SNeurodCNN** is a reliable tool for **early diagnosis** of Alzheimer’s Disease.
 
